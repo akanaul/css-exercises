@@ -1,0 +1,14 @@
+.basic {
+    background-color: rgba(246, 112, 112, 0.575);
+}
+.size {
+    font-size: 22px;
+}
+#blue-text {
+    color: blue; font-size: 22px;
+}
+#bold-green {
+    color: black; font-weight: bold; background-color: green;
+    font-size: 18;
+
+}
